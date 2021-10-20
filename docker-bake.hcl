@@ -13,7 +13,7 @@ group "default" {
 }
 
 variable "DEVCONTAINER_IMAGE_NAME" {
-	default = "felipecrs/devcontainer"
+	default = "gustavoggsb/devcontainer"
 }
 
 group "devcontainer" {
